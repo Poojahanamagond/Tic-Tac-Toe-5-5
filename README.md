@@ -6,8 +6,7 @@ Fully responsive and interactive with neon glass effects, animations, and fun vi
 ---
 
 ## 🖥️ Demo
-
-https://drive.google.com/file/d/1RKa60s2WXQj4XLKfae5rKzTT8BO0pYgH/view?usp=sharing
+https://drive.google.com/file/d/1VjTKGJ6qG1JBhRm1cgn-H30tNTvaM8eX/view?usp=drive_link
 ---
 
 ## 🌟 Features
